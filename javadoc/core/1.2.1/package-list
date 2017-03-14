@@ -1,0 +1,10 @@
+yokohama.yellow_man.sena.core.components
+yokohama.yellow_man.sena.core.components.db
+yokohama.yellow_man.sena.core.components.db.dao
+yokohama.yellow_man.sena.core.components.db.secure
+yokohama.yellow_man.sena.core.components.db.secure.dao
+yokohama.yellow_man.sena.core.components.google
+yokohama.yellow_man.sena.core.definitions
+yokohama.yellow_man.sena.core.models
+yokohama.yellow_man.sena.core.models.ext
+yokohama.yellow_man.sena.core.models.secure
